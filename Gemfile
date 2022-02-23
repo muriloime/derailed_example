@@ -28,3 +28,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "derailed_benchmarks", "~> 2.1"
